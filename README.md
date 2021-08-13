@@ -1,2 +1,2 @@
 # cars
-A single page content website that shows what cars I have owned
+Cars will be a single page content website built using Wordpress, that shows what cars I have owned
